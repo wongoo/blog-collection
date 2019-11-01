@@ -24,4 +24,4 @@
 - HTTP/3发展历程与展望 https://blog.cloudflare.com/http3-the-past-present-and-future/
 
 ## 团队建设
-- 红蓝对抗的红队建设 freebuf.com/articles/neopoints/217217.html
+- 红蓝对抗的红队建设 http://freebuf.com/articles/neopoints/217217.html
